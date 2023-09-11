@@ -1,1 +1,1 @@
-# Superbazaaar
+Supermarket management system
